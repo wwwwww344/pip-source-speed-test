@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wwwwww344.github.io/" alt="Interface Preview" width="800">
+  <img src="wwwwww344.github.io/" alt="Interface Preview" width="800">
 </p>
 
 ## Table of Contents
