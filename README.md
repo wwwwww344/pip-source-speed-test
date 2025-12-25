@@ -1,4 +1,3 @@
-# pip 源极速测速
 # Pip Speed Tester
 
 <p align="center">
@@ -13,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/f0f9ff/2563eb?text=Pip+Speed+Tester" alt="Interface Preview" width="800">
+  <img src="https://wwwwww344.github.io/" alt="Interface Preview" width="800">
 </p>
 
 ## Table of Contents
