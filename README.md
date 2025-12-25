@@ -11,9 +11,6 @@
   <strong>A Web Tool for Testing and Selecting Optimal PyPI Sources</strong>
 </p>
 
-<p align="center">
-  <img src="wwwwww344.github.io/" alt="Interface Preview" width="800">
-</p>
 
 ## Table of Contents
 
